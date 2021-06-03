@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246586005251",
+    "project_id": "tech-geeks-66677",
+    "storage_bucket": "tech-geeks-66677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246586005251:android:373844d5de6d6d7f99fb36",
+        "android_client_info": {
+          "package_name": "com.example.new_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246586005251-18f5q4mt574dfkfcqdalflslad8ccndq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfBZwpHhdBS3Z7scKaWG-W-GbosiTcPjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246586005251-18f5q4mt574dfkfcqdalflslad8ccndq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
