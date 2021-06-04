@@ -8,4 +8,4 @@ On the first screen of the app if you will go to tap the buyer card you will be 
 
 Google Drive link for the .apk file : https://drive.google.com/folderview?id=1PB_-YvZvCSGWi2oD_J2oIVImxj5x-xXA
 
-Some of the code for the app is present on master branch and remaining is present in the alpha branch of the given repo.
+Some of the code for the app is present on main branch and remaining is present in the alpha branch of the given repo.
