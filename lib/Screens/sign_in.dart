@@ -17,7 +17,7 @@ class _SignInState extends State<SignIn> {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: Text('Covid Trendz'),
+        title: Text('Trendz'),
         backgroundColor: Color(0XFF6C63FF),
       ),
       body: Padding(
